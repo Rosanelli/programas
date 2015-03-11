@@ -1,0 +1,328 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+
+body {
+    line-height: 1;
+}
+
+ol, ul {
+    list-style: none;
+}
+
+blockquote, q {
+    quotes: none;
+}
+
+    blockquote:before, blockquote:after,
+    q:before, q:after {
+        content: '';
+        content: none;
+    }
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+/* Default Styles 
+--------------------------------------------------------------------*/
+
+body {
+    background: url('img/denim.png');
+    font-family: 'Droid Sans', sans-serif;
+}
+
+.clearfix {
+    clear: both;
+}
+
+.wrap {
+    /*width: 940px;
+    margin: 4em auto;*/
+}
+
+nav {
+    background: -webkit-gradient(linear, center top, center bottom, from(#fff), to(#ccc));
+    background-image: linear-gradient(#fff, #ccc);
+    border-radius: 6px;
+    box-shadow: 0px 0px 4px 2px rgba(0,0,0,0.4);
+    padding: 0 10px;
+    position: relative;
+}
+
+.menu li {
+    float: left;
+    position: relative;
+}
+
+    .menu li a {
+        color: #444;
+        display: block;
+        font-size: 14px;
+        line-height: 20px;
+        padding: 6px 12px;
+        margin: 8px 8px;
+        vertical-align: middle;
+        text-decoration: none;
+    }
+
+        .menu li a:hover {
+            background: -webkit-gradient(linear, center top, center bottom, from(#ededed), to(#fff));
+            background-image: linear-gradient(#ededed, #fff);
+            border-radius: 12px;
+            box-shadow: inset 0px 0px 1px 1px rgba(0,0,0,0.1);
+            color: #222;
+        }
+
+/* Dropdown styles */
+
+.menu ul {
+    position: absolute;
+    left: -9999px;
+    list-style: none;
+    opacity: 0;
+    transition: opacity 1s ease;
+}
+
+    .menu ul li {
+        float: none;
+    }
+
+    .menu ul a {
+        white-space: nowrap;
+    }
+
+/* Displays the dropdown on hover and moves back into position */
+.menu li:hover ul {
+    background: rgba(255,255,255,0.7);
+    border-radius: 0 0 6px 6px;
+    box-shadow: inset 0px 2px 4px rgba(0,0,0,0.4);
+    left: 5px;
+    opacity: 1;
+}
+
+/* Persistant Hover State */
+.menu li:hover a {
+    background: -webkit-gradient(linear, center top, center bottom, from(#ccc), to(#ededed));
+    background-image: linear-gradient(#ccc, #ededed);
+    border-radius: 12px;
+    box-shadow: inset 0px 0px 1px 1px rgba(0,0,0,0.1);
+    color: #222;
+}
+
+.menu li:hover ul a {
+    background: none;
+    border-radius: 0;
+    box-shadow: none;
+}
+
+.menu li:hover ul li a:hover {
+    background: -webkit-gradient(linear, center top, center bottom, from(#eee), to(#fff));
+    background-image: linear-gradient(#ededed, #fff);
+    border-radius: 12px;
+    box-shadow: inset 0px 0px 4px 2px rgba(0,0,0,0.3);
+}
+
+.logoMenu {
+    font-family: 'Segoe UI';
+    font-style: oblique;
+    font-stretch: condensed;
+    text-align: right;
+    padding-top: 13px;
+    padding-right: 10px;
+    font-size: 20px;
+    text-shadow: rgba(0,0,0,0.4) 2px 3px 2px;
+}
+
+.modalPopup1_Background {
+    background-color: lightgrey;
+    filter: alpha(opacity=70) !important;
+    opacity: 0.7;
+    top: 0px !important;
+    left: 0px !important;
+    position: absolute !important;
+    z-index: 1 !important;
+}
+
+
+
+.modalPopup1 {
+    font-family: 'Segoe UI';
+    font-size: 18PX;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    text-align: center;
+    width: 400px;
+    height: 600px;
+    height: auto;
+    background: -webkit-gradient(linear, center top, center bottom, from(#ccc), to(#ededed));
+    background-image: linear-gradient(#ccc, #ededed);
+    border-radius: 12px;
+    box-shadow: inset 0px 0px 1px 1px rgba(0,0,0,0.1);
+    color: #222;
+}
+
+.modalPopupLogin {
+    font-family: 'Segoe UI';
+    font-size: 18PX;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    text-align: center;
+    width: 300px;
+    height: 600px;
+    height: auto;
+    background: -webkit-gradient(linear, center top, center bottom, from(#ccc), to(#ededed));
+    background-image: linear-gradient(#ccc, #ededed);
+    border-radius: 12px;
+    box-shadow: inset 0px 0px 1px 1px rgba(0,0,0,0.1);
+    color: #222;
+}
+
+.btnAutenticacao {
+    color: white;
+    padding-right: 10px;
+}
+
+
+.autenticacao {
+    text-align: right;
+    padding-bottom: 10px;
+}
+
+#lblException {
+    color: red;
+}
+
+#logoEmpresa {
+    float: right;
+    height: 350px;
+}
+
+#visualizacao {
+    float: left;
+    
+    padding-left: 15px;
+    padding-top: 15px;
+}
+
+/*.visualizacao
+{
+    float: left;
+    padding-left:15px;
+    padding-top:5px;
+}*/
+
+fieldset {
+    border: 3px solid white;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+legend {
+    padding: 0.2em 0.5em;
+    border: 2px solid white;
+    color: white;
+    font-size: 90%;
+    text-align: right;
+}
+
+.Grid {
+    width: 500px;
+    background-color: #fff;
+    margin: 5px 0 10px 0;
+    border: solid 1px #525252;
+    border-collapse: collapse;
+    font-family: Calibri;
+    color: #474747;
+    
+}
+
+    .Grid td {
+        padding: 2px;
+        border: solid 1px #c1c1c1;
+    }
+
+    .Grid .pgr table {
+        margin: 3px 0;
+    }
+
+    .Grid .pgr td {
+        border-width: 0;
+        padding: 0 6px;
+        border-left: solid 1px #666;
+        font-weight: bold;
+        color: #fff;
+        line-height: 12px;
+    }
+
+    .Grid .pgr a {
+        color: Gray;
+        text-decoration: none;
+    }
+
+        .Grid .pgr a:hover {
+            color: #000;
+            text-decoration: none;
+        }
+
+.logoMR {
+    width: 40%;
+    padding-left: 30%;
+    padding-right: 30%;
+    padding-top: 50px;
+}
+
+.botaoCancela {
+    float: right;
+}
+
+#fieldEmpresa{
+    /*background-color:white;*/
+    width:280px;
+}
+
+#fieldCadastro{
+    width:380px;
+    
+}
+
+.visualizacao{
+    padding-left:50px;
+}
+
+#imgEmpresa{
+    height:100px;
+    width:auto;
+
+}

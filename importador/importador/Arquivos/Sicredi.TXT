@@ -1,0 +1,402 @@
+      Jornal Ibiá                                                                                                                                           Fluxo de Caixa
+                                                                                                                                                        por Conta Bancária
+      Rua dos Plátanos nº 20 
+                                                                                                                                        Dt. Fluxo: 01/02/2014 a 28/02/2014
+      Montenegro - RS                                                                                           Conta Bancária: BANSICREDI EMPRESA - AG 0119 - C/C 71392-9
+          Data Cliente/Fornecedor                    Histórico                   Complemento          NF/ParcelaCentro de Custo        Cheque           Crédito       Débito
+          03/02MARIA MARCIA DAUBERMARNN              ENTRADA ASSINATURA JORNAL   COD: 117452          2719N/1   ENTRADA ASSINATURA                       171,00              
+                                                                                                                JORNAL
+          03/02BEAUTYCAO ESTETICA E PET SHOP         ENTRADA  DE PUBLICIDADE     COD: 85157           7548N/1   ENTRADA DE PUBLICIDADE                   100,20              
+          03/02MALHAS E CONFECCOES ELLIS LTDA        ENTRADA  DE PUBLICIDADE     COD: 84804           7365N/2   ENTRADA DE PUBLICIDADE                    66,66              
+          03/02ELION GARCIA DA SILVEIRA              ENTRADA ASSINATURA JORNAL   COD: 116133 - PARC:1 2718N/1   ENTRADA ASSINATURA                        51,00              
+                                                                                                                JORNAL
+          03/02COMERCIO DE ALIMENTOS FSR LTDA        ENTRADA  DE PUBLICIDADE     COD: 85431           7610N/1   ENTRADA DE PUBLICIDADE                   187,50              
+          03/02SOEMIS MARLISA SCHERER                ENTRADA ASSINATURA JORNAL   COD: 117453          2720N/1   ENTRADA ASSINATURA                       171,00              
+                                                                                                                JORNAL
+          03/02COMERCIO DE CONFECCOES YUSUF LTDA.    ENTRADA  DE PUBLICIDADE     COD: 85642           7718N/1   ENTRADA DE PUBLICIDADE                   600,00              
+          03/02MARISA I Q PORTO & CIA LTDA           ENTRADA  DE PUBLICIDADE     COD: 85703           7739N/1   ENTRADA DE PUBLICIDADE                   680,00              
+          03/02GALETTO, MOTTIN, OLIVEIRA ADV.        ENTRADA  DE PUBLICIDADE     COD: 85151           7745N/1   ENTRADA DE PUBLICIDADE                   110,00              
+          03/02MITRA DA DIOCESE DE MONTENEGRO        IMPRESSOS                                        706N/1    IMPRESSOS                                111,70              
+          03/02MITRA DA DIOCESE DE MONTENEGRO        IMPRESSOS                                        1098N/1   IMPRESSOS                                200,10              
+          03/02SERVICO SOCIAL DA INDUSTRIA           CONVENIO FARMACIA            2/12                          CONVENIO FARMACIA                                     399,92
+          03/02SESI-SERVICO SOCIAL DA INDUSTRIA      CONVENIO SACOLA              2/12                          CONVENIO SACOLA                                       204,83
+          03/02FOLHA DE PAGAMENTO                    FERIAS                      XANDE                          FERIAS                                              2.856,72
+          03/02FOLHA DE PAGAMENTO                    RESCISAO                    WILLIAN                        RESCISAO                                            1.720,67
+          03/02FOLHA DE PAGAMENTO                    FERIAS                      TATIANE                        FERIAS                                                877,90
+          03/02FOLHA DE PAGAMENTO                    RESCISAO                    ALESSANDRA C BOECK             RESCISAO                                              251,41
+          03/02/2014                                 TRANSFERENCIA ENTRE CONTAS                                                                          458,00              
+          04/02/2014                                 TRANSFERENCIA ENTRE CONTAS                                                                                    40.000,00
+          04/02COOPERATIVA DE CREDITO DE LIVRE ADMISSAO A COBRANCA DE TITULOS                                   TAXA COBRANCA DE TITULOS                               18,70
+               DE ASSOCIADOS OURO BRANCO
+          04/02ARTE BRINQUEDOS - TIMBA FESTAS        ENTRADA  DE PUBLICIDADE     COD: 83738           6838N/4   ENTRADA DE PUBLICIDADE                    87,50              
+          04/02MADEIRA E MARQUES LTDA                ENTRADA  DE PUBLICIDADE     COD: 84842           7349N/2   ENTRADA DE PUBLICIDADE                   265,00              
+          04/02INDUSTRIA COMERCIO DE FERROS BORTOLASO NTRADA  DE PUBLICIDADE     COD: 84782           7350N/2   ENTRADA DE PUBLICIDADE                    60,00              
+               LTDA
+          04/02JOSE FRANCISCO SELBACH MASSENA        ENTRADA  DE PUBLICIDADE     COD: 84941           7356N/2   ENTRADA DE PUBLICIDADE                   116,66              
+          04/02ROBERTO FERNANDO KNIEST               ENTRADA  DE PUBLICIDADE     COD: 84945           7358N/2   ENTRADA DE PUBLICIDADE                   225,00              
+          04/02TERRAZO CERAMICA E COMPLEMENTOSLTDA   ENTRADA  DE PUBLICIDADE     COD: 84832           7420N/2   ENTRADA DE PUBLICIDADE                   500,00              
+          04/02VALECAR VEICULOS E PECAS LTDA         ENTRADA  DE PUBLICIDADE     COD: 85385           7496N/1   ENTRADA DE PUBLICIDADE                    80,00              
+          04/02MINI MERCADO CALIARI                  ENTRADA  DE PUBLICIDADE     COD: 85227           7579N/1   ENTRADA DE PUBLICIDADE                    98,00              
+          04/02IMOBILIARIA KINDEL LTDA               ENTRADA  DE PUBLICIDADE     COD: 81538           7611N/28  ENTRADA DE PUBLICIDADE                   280,00              
+          04/02ROSA SUL LOCADORA DE VEICULOS LTDA    ENTRADA  DE PUBLICIDADE     COD: 85305           7612N/1   ENTRADA DE PUBLICIDADE                    70,00              
+          04/02BENOIT ELETRODOMESTICOS LTDA          ENTRADA  DE PUBLICIDADE     COD: 85338           7613N/1   ENTRADA DE PUBLICIDADE                   440,00              
+          04/02APESC - ASSOCIACAO PRO ENSIMO EM SANTA NTRADA  DE PUBLICIDADE     COD: 85393           7615N/1   ENTRADA DE PUBLICIDADE                   160,00              
+               CRUZ DO SUL
+          04/02PAMELA MACHADO KRANZ                  ENTRADA  DE PUBLICIDADE     COD: 85049           7627N/3   ENTRADA DE PUBLICIDADE                    77,00              
+          04/02MARIA CONCEICAO  PADILHA DE AZEVEDO   ENTRADA ASSINATURA JORNAL   COD: 116703          2723N/1   ENTRADA ASSINATURA                        44,00              
+                                                                                                                JORNAL
+          04/02MARGANE RAMOS PEREIRA                 ENTRADA ASSINATURA JORNAL   COD: 117475          2722N/1   ENTRADA ASSINATURA                       298,00              
+                                                                                                                JORNAL
+          04/02MARCO AURELIO DIETRICH                ENTRADA  DE PUBLICIDADE     COD: 85636           7713N/1   ENTRADA DE PUBLICIDADE                   378,00              
+          04/02FLORESTAL PARTICIPACOES LTDA          ENTRADA  DE PUBLICIDADE     COD: 85644           7719N/1   ENTRADA DE PUBLICIDADE                   900,00              
+          05/02RICARDO BERGMANN                      ENTRADA  DE PUBLICIDADE     COD: 84938           7357N/2   ENTRADA DE PUBLICIDADE                   190,00              
+          05/02CENTRAL COM VIDROS MOLDURAS LTDA      ENTRADA  DE PUBLICIDADE     COD: 84942           7359N/2   ENTRADA DE PUBLICIDADE                   175,00              
+      Fluxo de Caixa por Conta Bancária                                                USUARIO                                        Data: 19/03/2014             Página 1
+          Data Cliente/Fornecedor                    Histórico                   Complemento          NF/ParcelaCentro de Custo        Cheque           Crédito       Débito
+          05/02FARMACIA MONTENEGRO LTDA              ENTRADA  DE PUBLICIDADE     COD: 85395           7585N/1   ENTRADA DE PUBLICIDADE                   100,00              
+          05/02/2014                                 TRANSFERENCIA ENTRE CONTAS                                                                                     3.721,00
+          06/02/2014                                 TRANSFERENCIA ENTRE CONTAS                                                                           47,00              
+          06/02MALHAS E CONFECCOES ELLIS LTDA        ENTRADA  DE PUBLICIDADE     COD: 84804           7365N/3   ENTRADA DE PUBLICIDADE                    66,68              
+          06/02COOP. DE ECON. E CRED. MUTUO DOS MED. E TRADA ASSINATURA JORNAL   COD: 116104          2537N/1   ENTRADA ASSINATURA                       298,00              
+               DEMAIS PROF.DA AREA SAUDE DO V                                                                   JORNAL
+          06/02BEATRIZ AMELIA FLACH                  ENTRADA ASSINATURA JORNAL   COD: 116499          2740N/1   ENTRADA ASSINATURA                        44,00              
+                                                                                                                JORNAL
+          06/02DR. ANTONIO CESAR MENIN DA SILVA      ENTRADA  DE PUBLICIDADE     COD: 79282           7609N/11  ENTRADA DE PUBLICIDADE                   140,36              
+          06/02STEFFEN IMOVEIS LTDA                  ENTRADA  DE PUBLICIDADE     COD: 79968           7616N/10  ENTRADA DE PUBLICIDADE                   415,00              
+          06/02BRENO SINIBALDO PRIEBE                ENTRADA ASSINATURA JORNAL   COD: 117534          2741N/1   ENTRADA ASSINATURA                       298,00              
+                                                                                                                JORNAL
+          06/02MARISA I Q PORTO & CIA LTDA           ENTRADA  DE PUBLICIDADE     COD: 85750           7755N/1   ENTRADA DE PUBLICIDADE                   480,00              
+          06/02UBIRAJARA RESENDE MATTANA ME          ENTRADA  DE PUBLICIDADE     COD: 85827           7773N/1   ENTRADA DE PUBLICIDADE                   500,00              
+          06/02THIAGO IWASZKO MARQUES PROENCA        ENTRADA ASSINATURA JORNAL   COD: 117501          2742N/1   ENTRADA ASSINATURA                        44,00              
+                                                                                                                JORNAL
+          07/02COOPERATIVA DE CREDITO DE LIVRE ADMISSAO RADA  DE PUBLICIDADE     COD: 85482           7772N/1   ENTRADA DE PUBLICIDADE                   930,00              
+               DE ASSOCIADOS OURO BRANCO
+          07/02LUIS CLAUDIO WOLFF FILHO              ENTRADA ASSINATURA JORNAL   COD: 115060 - PARC:3 2474N/3   ENTRADA ASSINATURA                        59,60              
+                                                                                                                JORNAL
+          07/02DARCY VICENTE MARTINY                 ENTRADA  DE PUBLICIDADE     COD: 84887           7411N/2   ENTRADA DE PUBLICIDADE                   500,00              
+          07/02COM + COM DE MATERIAL PUBLICITARIO LTDA MEADA  DE PUBLICIDADE     COD: 84934           7413N/2   ENTRADA DE PUBLICIDADE                   175,00              
+          07/02HGM SISTEMAS DE INFORMATICA LTDA      ENTRADA  DE PUBLICIDADE     COD: 84896           7437N/2   ENTRADA DE PUBLICIDADE                   175,00              
+          07/02CANTEGRIL CLUBE DE MONTENEGRO         ENTRADA  DE PUBLICIDADE     COD: 85365           7617N/1   ENTRADA DE PUBLICIDADE                    96,00              
+          07/02REAL & REAL INCORPORADORA E CONSTRUTORA TRADA  DE PUBLICIDADE     COD: 85430           7619N/1   ENTRADA DE PUBLICIDADE                    92,00              
+               LTDA 
+          07/02JAQUELINE PORTO                       ENTRADA  DE PUBLICIDADE     COD: 84456           7625N/3   ENTRADA DE PUBLICIDADE                    75,00              
+          07/02PREFEITURA MUNICIPAL DE PARECI NOVO   ENTRADA  DE PUBLICIDADE     COD: 85485           7661N/1   ENTRADA DE PUBLICIDADE                   223,20              
+          07/02FABRICIO RAMAZZINI                    ENTRADA ASSINATURA JORNAL   COD: 117554          2747N/1   ENTRADA ASSINATURA                       298,00              
+                                                                                                                JORNAL
+          07/02ACELERA COMERCIO DE PECAS MOTOCICLETAS NTRADA ASSINATURA JORNAL   COD: 117417          2746N/1   ENTRADA ASSINATURA                       143,00              
+               LTDA                                                                                             JORNAL
+          07/02LICA4                                 PRO LABORE                                                 PRO LABORE                                            644,36
+          10/02STEPHANI PANNO SANTOS                 ENTRADA ASSINATURA JORNAL   COD: 116921          2755N/1   ENTRADA ASSINATURA                       298,00              
+                                                                                                                JORNAL
+          10/02ELOI CARLOS KOCHEMBORGER              ENTRADA ASSINATURA JORNAL   COD: 114482 - PARC:4 2750N/4   ENTRADA ASSINATURA                        74,50              
+                                                                                                                JORNAL
+          10/02A PRINCESA COMERCIO DE MODAS E BAZAR LTDARADA  DE PUBLICIDADE     COD: 84971           7482N/2   ENTRADA DE PUBLICIDADE                   300,00              
+          10/02PREFEITURA MUNICIPAL DE MARATA        ENTRADA  DE PUBLICIDADE     COD: 85334           7494N/1   ENTRADA DE PUBLICIDADE                    73,56              
+          10/02IMOBILIARIA KINDEL LTDA               ENTRADA  DE PUBLICIDADE     COD: 81538           7611N/29  ENTRADA DE PUBLICIDADE                   280,00              
+          10/02IMOBILIARIA MONTENEGRO                ENTRADA  DE PUBLICIDADE     COD: 79297           7624N/11  ENTRADA DE PUBLICIDADE                   385,95              
+          10/02DR. PAULO AUGUSTO M. CASANI           ENTRADA  DE PUBLICIDADE     COD: 85520           7682N/1   ENTRADA DE PUBLICIDADE                    90,00              
+          10/02IARA REJANE STERTZ                    ENTRADA  DE PUBLICIDADE     COD: 85515           7677N/1   ENTRADA DE PUBLICIDADE                   125,00              
+          10/02PREFEITURA MUNICIPAL DE MARATA        ENTRADA  DE PUBLICIDADE     COD: 85541           7686N/1   ENTRADA DE PUBLICIDADE                   147,12              
+          10/02PREFEITURA MUNICIPAL DE MARATA        ENTRADA  DE PUBLICIDADE     COD: 85555           7688N/1   ENTRADA DE PUBLICIDADE                    73,56              
+          10/02MARIA IARA MOSSMANNN                  ENTRADA ASSINATURA JORNAL   COD: 117579          2752N/1   ENTRADA ASSINATURA                       298,00              
+                                                                                                                JORNAL
+          10/02SERGIO WARLIN ABREU DE SOUZA          ENTRADA ASSINATURA JORNAL   COD: 117580          2754N/1   ENTRADA ASSINATURA                       298,00              
+                                                                                                                JORNAL
+          10/02PLANOS CONSULT. E CONTABIL. LT        ENTRADA ASSINATURA JORNAL   COD: 117581          2753N/1   ENTRADA ASSINATURA                       171,00              
+                                                                                                                JORNAL
+          10/02CARLOS ANDRE BORCHARDT                ENTRADA ASSINATURA JORNAL   COD: 117582          2749N/1   ENTRADA ASSINATURA                       171,00              
+                                                                                                                JORNAL
+          10/02JUARES DIAS                           ENTRADA ASSINATURA JORNAL   COD: 117583          2751N/1   ENTRADA ASSINATURA                       171,00              
+                                                                                                                JORNAL
+      Fluxo de Caixa por Conta Bancária                                                USUARIO                                        Data: 19/03/2014             Página 2
+          Data Cliente/Fornecedor                    Histórico                   Complemento          NF/ParcelaCentro de Custo        Cheque           Crédito       Débito
+          10/02PREFEITURA MUNICIPAL DE MARATA        ENTRADA  DE PUBLICIDADE     COD: 85663           7732N/1   ENTRADA DE PUBLICIDADE                    85,82              
+          10/02PREFEITURA MUNICIPAL DE MARATA        ENTRADA  DE PUBLICIDADE     COD: 85733           7749N/1   ENTRADA DE PUBLICIDADE                   165,51              
+          10/02MARISA I Q PORTO & CIA LTDA           ENTRADA  DE PUBLICIDADE     COD: 85791           7766N/1   ENTRADA DE PUBLICIDADE                   680,00              
+          10/02COOPERATIVA DE CREDITO DE LIVRE ADMISSAO A COBRANCA DE TITULOS                                   TAXA COBRANCA DE TITULOS                               45,10
+               DE ASSOCIADOS OURO BRANCO
+          10/02WMS SUPERMERCADOS DO BRASIL LTDA      VENDA AVULSA                COD: 15658           1898N/1   VENDA AVULSA                               5,62              
+          10/02WMS SUPERMERCADOS DO BRASIL LTDA      VENDA AVULSA                COD: 15621 - PARC:4  1892N/4   VENDA AVULSA                               7,02              
+          10/02WMS SUPERMERCADOS DO BRASIL LTDA      VENDA AVULSA                COD: 15871 - PARC:4  2008N/4   VENDA AVULSA                               7,02              
+          10/02WMS SUPERMERCADOS DO BRASIL LTDA      VENDA AVULSA                COD: 15935 - PARC:2  2027N/2   VENDA AVULSA                              35,03              
+          10/02WMS SUPERMERCADOS DO BRASIL LTDA      VENDA AVULSA                COD: 15935 - PARC:3  2030N/3   VENDA AVULSA                              35,03              
+          10/02WMS SUPERMERCADOS DO BRASIL LTDA      VENDA AVULSA                COD: 15935 - PARC:4  2031N/4   VENDA AVULSA                               5,62              
+          10/02WMS SUPERMERCADOS DO BRASIL LTDA      VENDA AVULSA                COD: 15935 - PARC:5  2033N/5   VENDA AVULSA                              12,64              
+          10/02WMS SUPERMERCADOS DO BRASIL LTDA      VENDA AVULSA                COD: 15935 - PARC:6  2035N/6   VENDA AVULSA                              12,64              
+          10/02WMS SUPERMERCADOS DO BRASIL LTDA      VENDA AVULSA                COD: 16095 - PARC:1  2067N/1   VENDA AVULSA                               5,62              
+          10/02VILMAR PAULO BORGMANN                 ENTRADA ASSINATURA JORNAL   COD: 116752          2770N/1   ENTRADA ASSINATURA                        30,00              
+                                                                                                                JORNAL
+          10/02IVANIR FRUHAUF                        ENTRADA ASSINATURA JORNAL   COD: 116753          2771N/1   ENTRADA ASSINATURA                        30,00              
+                                                                                                                JORNAL
+          11/02CARI RENATO DE VARGAS ME              ENTRADA  DE PUBLICIDADE     COD: 85517           7679N/1   ENTRADA DE PUBLICIDADE                    77,00              
+          11/02CELIA TERESINHA DA SILVA              ENTRADA ASSINATURA JORNAL   COD: 113985 - PARC:1 2497N/1   ENTRADA ASSINATURA                        47,00              
+                                                                                                                JORNAL
+          11/02COMERCIO DE CONFECCOES ETC & TAL LTDA ENTRADA  DE PUBLICIDADE     COD: 83973           6912N/4   ENTRADA DE PUBLICIDADE                   480,00              
+          11/02LUCIANA MOGLIA                        ENTRADA ASSINATURA JORNAL   COD: 115291 - PARC:3 2533N/3   ENTRADA ASSINATURA                        40,00              
+                                                                                                                JORNAL
+          11/02MICHELE MACHADO LECINA ME             ENTRADA  DE PUBLICIDADE     COD: 84547           7164N/3   ENTRADA DE PUBLICIDADE                   225,00              
+          11/02PMCVM COM. DE PNEUS LTDA              ENTRADA  DE PUBLICIDADE     COD: 84692           7434N/2   ENTRADA DE PUBLICIDADE                   360,00              
+          11/02LIZENIO CALHIERO                      ENTRADA  DE PUBLICIDADE     COD: 84888           7438N/2   ENTRADA DE PUBLICIDADE                   255,00              
+          11/02KERVI CAR COMERCIO DE VEICULOS LTDA   ENTRADA  DE PUBLICIDADE     COD: 84982           7440N/2   ENTRADA DE PUBLICIDADE                   300,00              
+          11/02AGROGAUER                             ENTRADA  DE PUBLICIDADE     COD: 85201           7472N/2   ENTRADA DE PUBLICIDADE                    65,33              
+          11/02TERRAZO CERAMICA E COMPLEMENTOSLTDA   ENTRADA  DE PUBLICIDADE     COD: 85069           7530N/2   ENTRADA DE PUBLICIDADE                   100,00              
+          11/02NF ARMAZEM DAS PIZZAS LTDA            ENTRADA  DE PUBLICIDADE     COD: 85153           7594N/3   ENTRADA DE PUBLICIDADE                   150,00              
+          11/02KENIA MULLER BARRETO ME               ENTRADA  DE PUBLICIDADE     COD: 85429           7620N/1   ENTRADA DE PUBLICIDADE                    50,00              
+          11/02ANELISE SCHAURICH DIETRICH            ENTRADA  DE PUBLICIDADE     COD: 84972           7621N/2   ENTRADA DE PUBLICIDADE                    84,00              
+          11/02ODETTE KLEIN FERNANDES ME             ENTRADA  DE PUBLICIDADE     COD: 82176           7623N/7   ENTRADA DE PUBLICIDADE                   400,00              
+          11/02ELETRICA TORMES & SCHNEIDER LTDA - ME ENTRADA  DE PUBLICIDADE     COD: 85308           7630N/1   ENTRADA DE PUBLICIDADE                   575,00              
+          11/02MARCIA CRISTINA DE VARGAS DA ROSA     ENTRADA  DE PUBLICIDADE     COD: 85339           7631N/1   ENTRADA DE PUBLICIDADE                 3.460,00              
+          11/02OTICA JORGE LTDA                      ENTRADA  DE PUBLICIDADE     COD: 85394           7632N/1   ENTRADA DE PUBLICIDADE                   400,00              
+          11/02SINOSCAR S/A                          ENTRADA  DE PUBLICIDADE     COD: 85463           7648N/1   ENTRADA DE PUBLICIDADE                   680,00              
+          11/02RITMO VEICULOS LTDA                   ENTRADA  DE PUBLICIDADE     COD: 85464           7649N/1   ENTRADA DE PUBLICIDADE                   650,00              
+          11/02COMEXI DO BRASIL LTDA                 ENTRADA  DE PUBLICIDADE     COD: 85470           7651N/1   ENTRADA DE PUBLICIDADE                   220,00              
+          11/02HELENA VIANNA                         ENTRADA  DE PUBLICIDADE     COD: 85496           7665N/1   ENTRADA DE PUBLICIDADE                   168,00              
+          11/02CLAUDETE HAUPENTHAL ME                ENTRADA  DE PUBLICIDADE     COD: 85492           7663N/1   ENTRADA DE PUBLICIDADE                   200,00              
+          11/02YAMAVALE MOTOCICLETAS LTDA            ENTRADA  DE PUBLICIDADE     COD: 85479           7657N/1   ENTRADA DE PUBLICIDADE                   384,00              
+          11/02LUCAS E MARQUES IMOBILIARIA LTDA ME   ENTRADA  DE PUBLICIDADE     COD: 85480           7658N/1   ENTRADA DE PUBLICIDADE                   124,00              
+          11/02CURTUME NIMO LTDA                     ENTRADA  DE PUBLICIDADE     COD: 85525           7683N/1   ENTRADA DE PUBLICIDADE                   175,00              
+          11/02INSTITUTO MORRO DA CUTIA DE AGROECOLOGIA RADA  DE PUBLICIDADE     COD: 85519           7681N/1   ENTRADA DE PUBLICIDADE                   130,00              
+               IMCA
+          11/02CABRAL COMERCIO DE TINTAS LTDA        ENTRADA ASSINATURA JORNAL   COD: 116903          2758N/1   ENTRADA ASSINATURA                       298,00              
+                                                                                                                JORNAL
+          11/02REIS TRATORES LTDA                    ENTRADA ASSINATURA JORNAL   COD: 117608          2767N/1   ENTRADA ASSINATURA                       298,00              
+                                                                                                                JORNAL
+          11/02LUIZ FERNANDO GOULART                 ENTRADA ASSINATURA JORNAL   COD: 117609          2766N/1   ENTRADA ASSINATURA                       298,00              
+                                                                                                                JORNAL
+          11/02ESTOFARIA ESTILO LTDA                 ENTRADA ASSINATURA JORNAL   COD: 117610          2763N/1   ENTRADA ASSINATURA                       171,00              
+                                                                                                                JORNAL
+      Fluxo de Caixa por Conta Bancária                                                USUARIO                                        Data: 19/03/2014             Página 3
+          Data Cliente/Fornecedor                    Histórico                   Complemento          NF/ParcelaCentro de Custo        Cheque           Crédito       Débito
+          11/02CICERO AUGUSTO KARNAL DE OLIVEIRA     ENTRADA ASSINATURA JORNAL   COD: 117611          2759N/1   ENTRADA ASSINATURA                       298,00              
+                                                                                                                JORNAL
+          11/02EDSON LUTZ DA SILVA                   ENTRADA ASSINATURA JORNAL   COD: 117612          2762N/1   ENTRADA ASSINATURA                       298,00              
+                                                                                                                JORNAL
+          11/02BANCO DO ESTADO DO RIO GRANDE DO SUL  ENTRADA ASSINATURA JORNAL   COD: 117613          2757N/1   ENTRADA ASSINATURA                       171,00              
+               S/A078/9000687                                                                                   JORNAL
+          11/02NILTON ZIRBES DE OLIVEIRA             ENTRADA ASSINATURA JORNAL   COD: 117614          2761N/1   ENTRADA ASSINATURA                       171,00              
+                                                                                                                JORNAL
+          11/02IVO LUIS ESSWEIN                      ENTRADA ASSINATURA JORNAL   COD: 117615          2764N/1   ENTRADA ASSINATURA                       298,00              
+                                                                                                                JORNAL
+          11/02JC ADMINISTRACAO DE IMOVEIS LTDA      ENTRADA ASSINATURA JORNAL   COD: 117616          2765N/1   ENTRADA ASSINATURA                       171,00              
+                                                                                                                JORNAL
+          11/02MADEIRA E MARQUES LTDA                ENTRADA  DE PUBLICIDADE     COD: 85514           7715N/1   ENTRADA DE PUBLICIDADE                   265,00              
+          11/02WEICOLO COMERCIO DE VEICULOS LTDA     ENTRADA  DE PUBLICIDADE     COD: 85660           7724N/1   ENTRADA DE PUBLICIDADE                   518,40              
+          11/02DILU MARA O. MACIEL                   ENTRADA ASSINATURA JORNAL   COD: 117217          2760N/1   ENTRADA ASSINATURA                       298,00              
+                                                                                                                JORNAL
+          11/02IMPORTADORA E EXPORTADORA DE CEREAIS SAENDA AVULSA                COD: 17350           2717N/1   VENDA AVULSA                             537,28              
+          12/02SEDE ZERO                             ENTRADA  DE PUBLICIDADE     COD: 85018           7505N/2                                            116,66              
+          12/02FARMACIA MONTENEGRO LTDA              ENTRADA  DE PUBLICIDADE     COD: 85395           7585N/2   ENTRADA DE PUBLICIDADE                   100,00              
+          12/02VALECAR VEICULOS E PECAS LTDA         ENTRADA  DE PUBLICIDADE     COD: 85399           7634N/1   ENTRADA DE PUBLICIDADE                   680,00              
+          12/02ALEXANDRE SILVA SCHMITZ ME            ENTRADA  DE PUBLICIDADE     COD: 85469           7650N/1   ENTRADA DE PUBLICIDADE                   152,00              
+          12/02ASSOCIACAO ORDEM AUXILIADORA DE       ENTRADA  DE PUBLICIDADE     COD: 85494           7664N/1   ENTRADA DE PUBLICIDADE                   192,00              
+               SENHORAS EVANGELICAS DE MONTENEGRO 
+          12/02CLAUDIR FRANCISCO CEMIN               ENTRADA  DE PUBLICIDADE     COD: 85516           7678N/1   ENTRADA DE PUBLICIDADE                   250,00              
+          12/02PREFEITURA MUNICIPAL DE SAO JOSE DO SULNTRADA  DE PUBLICIDADE     COD: 85539           7685N/1   ENTRADA DE PUBLICIDADE                    65,10              
+          12/02PREFEITURA MUNICIPAL DE SAO JOSE DO SULNTRADA  DE PUBLICIDADE     COD: 85692           7735N/1   ENTRADA DE PUBLICIDADE                    94,40              
+          12/02IMOBILIARIA NOVOPOLO LTDA             ENTRADA  DE PUBLICIDADE     COD: 85498           7779N/1   ENTRADA DE PUBLICIDADE                    69,00              
+          12/02ANDRE LUIS ALTENHOFEN & CIA LTDA - ME ENTRADA  DE PUBLICIDADE     COD: 84430           7800N/3   ENTRADA DE PUBLICIDADE                   268,00              
+          12/02COOPERATIVA DE CREDITO DE LIVRE ADMISSAO A COBRANCA DE TITULOS                                   TAXA COBRANCA DE TITULOS                               55,00
+               DE ASSOCIADOS OURO BRANCO
+          13/02ANA HELENA KNIEST                     ENTRADA ASSINATURA JORNAL   COD: 116763 - PARC:1 4700N/1   ENTRADA ASSINATURA                        59,60              
+                                                                                                                JORNAL
+          13/02TIPOGRAFIA E BAZAR LUTZ LTDA          ENTRADA  DE PUBLICIDADE     COD: 84944           7481N/2   ENTRADA DE PUBLICIDADE                   150,00              
+          13/02LIZENIO CALHIERO                      ENTRADA  DE PUBLICIDADE     COD: 85020           7504N/2                                            116,66              
+          13/02ODONTOLOGIA BECKER LTDA               ENTRADA  DE PUBLICIDADE     COD: 85270           7569N/2   ENTRADA DE PUBLICIDADE                   319,00              
+          13/02ARTE BRINQUEDOS - TIMBA FESTAS        ENTRADA  DE PUBLICIDADE     COD: 85022           7500N/2                                            100,00              
+          13/02SCHOENELL E SCHOENELL LTDA            ENTRADA  DE PUBLICIDADE     COD: 85341           7636N/1   ENTRADA DE PUBLICIDADE                   437,50              
+          13/02IMOBILIARIA NOVOPOLO LTDA             ENTRADA  DE PUBLICIDADE     COD: 85327           7638N/1   ENTRADA DE PUBLICIDADE                   170,00              
+          13/02TOATOA VIAGENS E TURISMO LTDA         ENTRADA  DE PUBLICIDADE     COD: 85364           7639N/1   ENTRADA DE PUBLICIDADE                   318,00              
+          13/02ODONTOLOGIA BECKER LTDA               ENTRADA  DE PUBLICIDADE     COD: 85751           7788N/1   ENTRADA DE PUBLICIDADE                   380,00              
+          13/02SUPERMERCADO MOMBACH LTDA             VENDA AVULSA                COD: 17194           2738N/1   VENDA AVULSA                             607,12              
+          13/02MARCIA INES GUEDES AUTO -LOCADORA-ME  ENTRADA  DE PUBLICIDADE     COD: 85937           7895N/1   ENTRADA DE PUBLICIDADE                 1.000,00              
+          13/02COOPERATIVA DE CREDITO DE LIVRE ADMISSAO A COBRANCA DE TITULOS                                   TAXA COBRANCA DE TITULOS                               13,98
+               DE ASSOCIADOS OURO BRANCO
+          14/02MARCOS ELIAS WEBER                    ENTRADA ASSINATURA JORNAL   COD: 114457          2795N/1   ENTRADA ASSINATURA                       171,00              
+                                                                                                                JORNAL
+          14/02NIVALDO MIGUEL HAUPENTHAL             ENTRADA ASSINATURA JORNAL   COD: 115872 - PARC:3 2796N/3   ENTRADA ASSINATURA                        59,60              
+                                                                                                                JORNAL
+          14/02TAVARES - CHAVES & FECHADURAS LTDA    ENTRADA  DE PUBLICIDADE     COD: 85019           7508N/2                                            100,00              
+          14/02MEGA MATERIAL ELETRICA LTDA           ENTRADA  DE PUBLICIDADE     COD: 85021           7506N/2                                            175,00              
+          14/02JAQUELINE FLORES - MOTEL REFUGIO      ENTRADA  DE PUBLICIDADE     COD: 85093           7509N/2                                            175,00              
+          14/02CENTRO DE ORTOPEDIA E FRATURAS VALE DO NTRADA  DE PUBLICIDADE     COD: 85362           7635N/1   ENTRADA DE PUBLICIDADE                   360,00              
+               CAI LTDA
+          14/02CARMEM TELES                          ENTRADA  DE PUBLICIDADE     COD: 85367           7637N/1   ENTRADA DE PUBLICIDADE                    94,00              
+          14/02COMERCIAL AUTO MONTENEGRINA LIMITADA  ENTRADA  DE PUBLICIDADE     COD: 85518           7680N/1   ENTRADA DE PUBLICIDADE                    95,00              
+      Fluxo de Caixa por Conta Bancária                                                USUARIO                                        Data: 19/03/2014             Página 4
+          Data Cliente/Fornecedor                    Histórico                   Complemento          NF/ParcelaCentro de Custo        Cheque           Crédito       Débito
+          14/02JAQUELINE FLORES - MOTEL REFUGIO      ENTRADA  DE PUBLICIDADE     COD: 85601           7716N/1   ENTRADA DE PUBLICIDADE                   323,00              
+          14/02CENTRO DE FORMACAO DE CONDUTORES DE   ENTRADA  DE PUBLICIDADE     COD: 85726           7751N/1   ENTRADA DE PUBLICIDADE                   350,00              
+               MONTENEGRO LTDA
+          14/02PREFEITURA MUNICIPAL DE BROCHIER      ENTRADA  DE PUBLICIDADE     COD: 85825           7813N/1   ENTRADA DE PUBLICIDADE                   111,60              
+          14/02ESQUADRIAS NOVA ERA LTDA ME           ENTRADA  DE PUBLICIDADE     COD: 85854           7875N/1   ENTRADA DE PUBLICIDADE                   220,00              
+          14/02FOLHA DE PAGAMENTO                    RESCISAO                    ALINE SCHERER                  RESCISAO                                              411,53
+          17/02CARI RENATO DE VARGAS ME              ENTRADA  DE PUBLICIDADE     COD: 84197           7640N/3   ENTRADA DE PUBLICIDADE                   412,00              
+          17/02ASSOCIACAO PRO CULTURA E EDUCACAO     ENTRADA  DE PUBLICIDADE     COD: 84551           7169N/3   ENTRADA DE PUBLICIDADE                   843,84              
+               COMUNIT DE MONTENEGRO 
+          17/02AGENCIA MATRIZ COM. E MARKETING       ENTRADA  DE PUBLICIDADE     COD: 85067           7390N/1   ENTRADA DE PUBLICIDADE                    89,60              
+          17/02IMOBILIARIA TETO IMOVEIS LTDA         ENTRADA  DE PUBLICIDADE     COD: 85120           7537N/2   ENTRADA DE PUBLICIDADE                   200,00              
+          17/02MICHELE MACHADO LECINA ME             ENTRADA  DE PUBLICIDADE     COD: 85244           7563N/2   ENTRADA DE PUBLICIDADE                   105,00              
+          17/02LOJAS SOLAR LTDA                      ENTRADA  DE PUBLICIDADE     COD: 85246           7629N/1   ENTRADA DE PUBLICIDADE                 2.556,00              
+          17/02CAMARA MUNICIPAL DE VEREADORES DE     ENTRADA  DE PUBLICIDADE     COD: 85333           7641N/1   ENTRADA DE PUBLICIDADE                   176,80              
+               MONTENEGRO
+          17/02PREFEITURA MUNICIPAL DE BROCHIER      ENTRADA  DE PUBLICIDADE     COD: 85484           7660N/1   ENTRADA DE PUBLICIDADE                   120,90              
+          17/02AKT TRANSPORTES DE CARGAS LTDA        ENTRADA  DE PUBLICIDADE     COD: 85583           7701N/1   ENTRADA DE PUBLICIDADE                   110,00              
+          17/02SINDICATO DO COMERCIO VAREJISTA DE    ENTRADA  DE PUBLICIDADE     COD: 85582           7692N/1   ENTRADA DE PUBLICIDADE                   352,00              
+               MONTENEGRO 
+          17/02PREFEITURA MUNICIPAL DE BROCHIER      ENTRADA  DE PUBLICIDADE     COD: 85748           7754N/1   ENTRADA DE PUBLICIDADE                   111,60              
+          17/02PREFEITURA MUNICIPAL DE MARATA        ENTRADA  DE PUBLICIDADE     COD: 85769           7759N/1   ENTRADA DE PUBLICIDADE                   183,90              
+          17/02PREFEITURA MUNICIPAL DE MARATA        ENTRADA  DE PUBLICIDADE     COD: 85599           7775N/1   ENTRADA DE PUBLICIDADE                    73,56              
+          17/02MARISA I Q PORTO & CIA LTDA           ENTRADA  DE PUBLICIDADE     COD: 85889           7887N/1   ENTRADA DE PUBLICIDADE                   680,00              
+          17/02COOPERATIVA DE CREDITO DE LIVRE ADMISSAO A COBRANCA DE TITULOS                                   TAXA COBRANCA DE TITULOS                               80,92
+               DE ASSOCIADOS OURO BRANCO
+          18/02ELETRICA TORMES & SCHNEIDER LTDA - ME ENTRADA  DE PUBLICIDADE     COD: 85307           7643N/1   ENTRADA DE PUBLICIDADE                   335,00              
+          18/02SINDICATO DOS TRABALHADORES RURAIS DE ENTRADA ASSINATURA JORNAL   COD: 116733          2648N/1   ENTRADA ASSINATURA                       298,00              
+               PARECI NOVO                                                                                      JORNAL
+          18/02COMERCIAL DE GAS MONTENEGRINA LTDA    ENTRADA  DE PUBLICIDADE     COD: 85014           7502N/2                                            100,80              
+          18/02ASSOCIACAO ORDEM AUXILIADORA DE       ENTRADA  DE PUBLICIDADE     COD: 85044           7449N/2   ENTRADA DE PUBLICIDADE                 1.150,00              
+               SENHORAS EVANGELICAS DE MONTENEGRO 
+          18/02COLLING NEGOCIOS IMOBILIARIOS S/S LTDAENTRADA  DE PUBLICIDADE     COD: 80178           7777N/9   ENTRADA DE PUBLICIDADE                   320,00              
+          18/02CRISTINA A.URIELINK                   ENTRADA  DE PUBLICIDADE     COD: 85208           7544N/2   ENTRADA DE PUBLICIDADE                   175,00              
+          18/02NF ARMAZEM DAS PIZZAS LTDA            ENTRADA  DE PUBLICIDADE     COD: 85153           7594N/4   ENTRADA DE PUBLICIDADE                   150,00              
+          18/02IMOBILIARIA KINDEL LTDA               ENTRADA  DE PUBLICIDADE     COD: 81538           7611N/30  ENTRADA DE PUBLICIDADE                   280,00              
+          18/02CARI RENATO DE VARGAS ME              ENTRADA  DE PUBLICIDADE     COD: 85085           7642N/1   ENTRADA DE PUBLICIDADE                   300,00              
+          18/02VANDERLEI DA SILVEIRA                 ENTRADA ASSINATURA JORNAL   COD: 116797          2811N/1   ENTRADA ASSINATURA                       255,00              
+                                                                                                                JORNAL
+          18/02MOTRIX-TRANSPORTES E SERVICOS LTDA    ENTRADA  DE PUBLICIDADE     COD: 85585           7699N/1   ENTRADA DE PUBLICIDADE                    80,00              
+          18/02TRANSPORTES WALDEMAR LTDA             ENTRADA  DE PUBLICIDADE     COD: 85586           7698N/1   ENTRADA DE PUBLICIDADE                   192,00              
+          18/02SINOSCAR S/A                          ENTRADA  DE PUBLICIDADE     COD: 85578           7702N/1   ENTRADA DE PUBLICIDADE                   680,00              
+          18/02STAR CONSULT E SISTEMAS EM INFORMA    ENTRADA ASSINATURA JORNAL   COD: 117214 - PARC:1 2810N/1   ENTRADA ASSINATURA                        57,00              
+                                                                                                                JORNAL
+          18/02CENTRO DE INTEGRACAO EMPRESA ESCOLA DO NTRADA ASSINATURA JORNAL   COD: 117439          2809N/1   ENTRADA ASSINATURA                       171,00              
+               RS                                                                                               JORNAL
+          18/02COMERCIAL DE PNEUS VALE DO TAQUARI LTDANTRADA  DE PUBLICIDADE     COD: 85422           7781N/1   ENTRADA DE PUBLICIDADE                 1.000,00              
+          18/02COMERCIAL AUTO MONTENEGRINA LIMITADA  ENTRADA  DE PUBLICIDADE     COD: 85543           7783N/1   ENTRADA DE PUBLICIDADE                 2.350,00              
+          18/02RESIPLASTIC INDUSTRIA E COMERCIO LTDA ENTRADA  DE PUBLICIDADE     COD: 85800           7789N/1   ENTRADA DE PUBLICIDADE                    85,00              
+          18/02HELENA VIANNA                         ENTRADA  DE PUBLICIDADE     COD: 85815           7790N/1   ENTRADA DE PUBLICIDADE                   160,00              
+          18/02CAMARA DOS DIRIGENTES LOJISTAS DE     ENTRADA ASSINATURA JORNAL   COD: 117688          2802N/1   ENTRADA ASSINATURA                       298,00              
+               MONTENEGRO                                                                                       JORNAL
+          18/02COOPERATIVA DE CREDITO DE LIVRE ADMISSAO A COBRANCA DE TITULOS                                   TAXA COBRANCA DE TITULOS                               22,00
+               DE ASSOCIADOS OURO BRANCO
+          18/02MARA JAQUELINE FINGER                 ENTRADA ASSINATURA JORNAL   COD: 112452          2820N/2   ENTRADA ASSINATURA                       114,00              
+                                                                                                                JORNAL
+      Fluxo de Caixa por Conta Bancária                                                USUARIO                                        Data: 19/03/2014             Página 5
+          Data Cliente/Fornecedor                    Histórico                   Complemento          NF/ParcelaCentro de Custo        Cheque           Crédito       Débito
+          19/02/2014                                 TRANSFERENCIA ENTRE CONTAS                                                                           51,00              
+          19/02MARIA BEATRIZ BAHIA SALDANHA          ENTRADA  DE PUBLICIDADE     COD: 85819           7778N/1   ENTRADA DE PUBLICIDADE                    92,92              
+          19/02FUVATES -FUNDACAO VALE DO TAQUARI DE  ENTRADA  DE PUBLICIDADE     COD: 85475           7653N/1   ENTRADA DE PUBLICIDADE                 1.070,00              
+               EDUCACAO E DESENVOLVIMENTO SOCIAL
+          19/02FARMACIA MONTENEGRO LTDA              ENTRADA  DE PUBLICIDADE     COD: 85395           7585N/3   ENTRADA DE PUBLICIDADE                   100,00              
+          19/02CPL - CENTRO DE PROPAGANDA LTDA.      ENTRADA  DE PUBLICIDADE     COD: 85317           7743N/1   ENTRADA DE PUBLICIDADE                   882,00              
+          19/02TRANSPORTES WALDEMAR LTDA             ENTRADA  DE PUBLICIDADE     COD: 85841           7776N/1   ENTRADA DE PUBLICIDADE                   192,00              
+          19/02RENALDO SARMENTO ME                   ENTRADA  DE PUBLICIDADE     COD: 85473           7791N/1   ENTRADA DE PUBLICIDADE                   140,00              
+          19/02BRENNER VEICULOS E PECAS LTDA         ENTRADA  DE PUBLICIDADE     COD: 85613           7793N/1   ENTRADA DE PUBLICIDADE                   192,00              
+          19/02EDUARDO SOUTO MACHADO E CIA LTDA      ENTRADA  DE PUBLICIDADE     COD: 85612           7794N/1   ENTRADA DE PUBLICIDADE                   300,00              
+          19/02COMERCIAL AUTO MONTENEGRINA LIMITADA  ENTRADA  DE PUBLICIDADE     COD: 85611           7795N/1   ENTRADA DE PUBLICIDADE                    95,00              
+          19/02NF ARMAZEM DAS PIZZAS LTDA            ENTRADA  DE PUBLICIDADE     COD: 85606           7796N/1   ENTRADA DE PUBLICIDADE                    80,00              
+          19/02PAMELA MACHADO KRANZ                  ENTRADA  DE PUBLICIDADE     COD: 85049           7804N/4   ENTRADA DE PUBLICIDADE                    77,00              
+          19/02IMOBILIARIA HENKE + RODRIGUES         ENTRADA  DE PUBLICIDADE     COD: 85397           7827N/1   ENTRADA DE PUBLICIDADE                   145,80              
+          20/02BELLINA IMOVEIS                       ENTRADA  DE PUBLICIDADE     COD: 85326           7780N/1   ENTRADA DE PUBLICIDADE                   542,16              
+          20/02IMOBILIARIA TETO IMOVEIS LTDA         ENTRADA  DE PUBLICIDADE     COD: 84631           7316N/3   ENTRADA DE PUBLICIDADE                   250,00              
+          20/02SOLIDA JOAO PESSOA EMPREENDIMENTOS    ENTRADA  DE PUBLICIDADE     COD: 85579           7690N/1   ENTRADA DE PUBLICIDADE                   229,50              
+               IMOBILIARIOS LTDA
+          20/02UBIRAJARA RESENDE MATTANA ME          ENTRADA  DE PUBLICIDADE     COD: 84975           7801N/2   ENTRADA DE PUBLICIDADE                   200,00              
+          20/02SANDRO RODRIGUES DORNELLES - OFICINA  ENTRADA  DE PUBLICIDADE     COD: 85699           7811N/1   ENTRADA DE PUBLICIDADE                    55,00              
+               DORNELLES
+          20/02TECIDOS E ARMARINHOS SEELIG LTDA      ENTRADA ASSINATURA JORNAL   COD: 117667          2824N/1   ENTRADA ASSINATURA                       298,00              
+                                                                                                                JORNAL
+          20/02JOSE BRENO DA CRUZ                    ENTRADA ASSINATURA JORNAL   COD: 117708          2825N/1   ENTRADA ASSINATURA                       143,00              
+                                                                                                                JORNAL
+          20/02COOPERATIVA DE CREDITO DE LIVRE ADMISSAO A COBRANCA DE TITULOS                                   TAXA COBRANCA DE TITULOS                               22,00
+               DE ASSOCIADOS OURO BRANCO
+          20/02INSS4                                 INSS                         2/12                          INSS                                                6.408,83
+          20/02MIN. DA ECONOMIA FAZENDA E PLANEJ.    IMPOSTO DE RENDA RETIDO NA  ALEXANDRE RODER-FERIAS         IMPOSTO DE RENDA RETIDO                                57,53
+                                                     FONTE                                                      NA FONTE
+          20/02MIN. DA ECONOMIA FAZENDA E PLANEJ.    IMPOSTO DE RENDA RETIDO NA  EMPRESA 2/12                   IMPOSTO DE RENDA RETIDO                               723,79
+                                                     FONTE                                                      NA FONTE
+          20/02MIN. DA ECONOMIA FAZENDA E PLANEJ.    IMPOSTOS E TAXAS FEDERAIS    2/12                          IMPOSTOS E TAXAS FEDERAIS                          18.437,52
+          20/02/2014                                 TRANSFERENCIA ENTRE CONTAS                                                                           74,50              
+          21/02FABRICA DE DOCES LEDUR LTDA           ENTRADA  DE PUBLICIDADE     COD: 85776           7762N/1   ENTRADA DE PUBLICIDADE                   140,00              
+          21/02GSW UTENSILIOS LTDA                   ENTRADA  DE PUBLICIDADE     COD: 85899           7909N/1   ENTRADA DE PUBLICIDADE                   385,00              
+          21/02VALMOR GRIEBELER                      ENTRADA ASSINATURA JORNAL   COD: 116793          2836N/1   ENTRADA ASSINATURA                       255,00              
+                                                                                                                JORNAL
+          21/02UNIMED VALE DO CAI - SOCIEDADE        ENTRADA  DE PUBLICIDADE     COD: 79012           7919N/11                                         1.157,00              
+               COOPERATIVA DE SERVICOS DE SAUDE LTDA
+          21/02LAERCIO ROBERTO KLEBER                ENTRADA ASSINATURA JORNAL   COD: 116508 - PARC:2 2835N/2   ENTRADA ASSINATURA                        71,00              
+                                                                                                                JORNAL
+          21/02HGM SISTEMAS DE INFORMATICA LTDA      ENTRADA  DE PUBLICIDADE     COD: 85283           7570N/2   ENTRADA DE PUBLICIDADE                   235,00              
+          21/02MARCOS GILBERTO GRIEBELER             ENTRADA ASSINATURA JORNAL   COD: 116883          2674N/1   ENTRADA ASSINATURA                       171,00              
+                                                                                                                JORNAL
+          21/02RITMO VEICULOS LTDA                   ENTRADA  DE PUBLICIDADE     COD: 85645           7717N/1   ENTRADA DE PUBLICIDADE                   650,00              
+          21/02RITMO VEICULOS LTDA                   ENTRADA  DE PUBLICIDADE     COD: 85646           7720N/1   ENTRADA DE PUBLICIDADE                   650,00              
+          21/02METHA SYSTEMS CONSULTORIA EMPR. E     ENTRADA  DE PUBLICIDADE     COD: 81762           7799N/7   ENTRADA DE PUBLICIDADE                   132,00              
+               TECNOLOGIA DE INFORMACAO LTDA
+          21/02ANTONIO CARLOS MONARETTO              ENTRADA  DE PUBLICIDADE     COD: 84973           7802N/2   ENTRADA DE PUBLICIDADE                   244,00              
+          21/02SUPERMERCADO MOMBACH LTDA             ENTRADA  DE PUBLICIDADE     COD: 85330           7805N/1   ENTRADA DE PUBLICIDADE                   750,00              
+          21/02DR. SERGIO PEDRO SIEBEL               ENTRADA  DE PUBLICIDADE     COD: 85400           7806N/1   ENTRADA DE PUBLICIDADE                   240,00              
+          21/02TAVARES - CHAVES & FECHADURAS LTDA    ENTRADA  DE PUBLICIDADE     COD: 85420           7808N/1   ENTRADA DE PUBLICIDADE                   120,00              
+          21/02ANTONIO C. MOTTA                      ENTRADA  DE PUBLICIDADE     COD: 85696           7810N/1   ENTRADA DE PUBLICIDADE                   110,00              
+          21/02GIRO DISTRIBUIDORA DE BEBIDAS LTDA    ENTRADA  DE PUBLICIDADE     COD: 85753           7812N/1   ENTRADA DE PUBLICIDADE                   192,00              
+      Fluxo de Caixa por Conta Bancária                                                USUARIO                                        Data: 19/03/2014             Página 6
+          Data Cliente/Fornecedor                    Histórico                   Complemento          NF/ParcelaCentro de Custo        Cheque           Crédito       Débito
+          21/02CARI RENATO DE VARGAS ME              ENTRADA  DE PUBLICIDADE     COD: 85902           7897N/1   ENTRADA DE PUBLICIDADE                    77,00              
+          21/02DRA. FABIANA BARTH BAUERMANN          ENTRADA ASSINATURA JORNAL   COD: 117648          2834N/1   ENTRADA ASSINATURA                       298,00              
+                                                                                                                JORNAL
+          21/02DR. WALDIR JOAO KLEBER                ENTRADA ASSINATURA JORNAL   COD: 117661          2833N/1   ENTRADA ASSINATURA                       298,00              
+                                                                                                                JORNAL
+          21/02SABRINA STREB                         ENTRADA ASSINATURA JORNAL   COD: 117714          2837N/1   ENTRADA ASSINATURA                        90,00              
+                                                                                                                JORNAL
+          21/02UNIPET - JULIANA HORLLE SENGER        ENTRADA ASSINATURA JORNAL   COD: 117757          2838N/1   ENTRADA ASSINATURA                       298,00              
+                                                                                                                JORNAL
+          21/02COOPERATIVA DE CREDITO DE LIVRE ADMISSAO A COBRANCA DE TITULOS                                   TAXA COBRANCA DE TITULOS                               23,10
+               DE ASSOCIADOS OURO BRANCO
+          21/02FOLHA DE PAGAMENTO                    RESCISAO                    SILVESTRE                      RESCISAO                                              389,79
+          21/02FOLHA DE PAGAMENTO                    RESCISAO                    LUCAS                          RESCISAO                                              538,63
+          24/02CARI RENATO DE VARGAS ME              ENTRADA  DE PUBLICIDADE     COD: 85933           7898N/1   ENTRADA DE PUBLICIDADE                    88,00              
+          24/02RICARDO BERGMANN                      ENTRADA  DE PUBLICIDADE     COD: 85641           7765N/1   ENTRADA DE PUBLICIDADE                   105,00              
+          24/02MARISA I Q PORTO & CIA LTDA           ENTRADA  DE PUBLICIDADE     COD: 85986           7946N/1   ENTRADA DE PUBLICIDADE                   680,00              
+          24/02VERA LUCIA DOS SANTOS                 ENTRADA ASSINATURA JORNAL   COD: 116949          2866N/1   ENTRADA ASSINATURA                        25,00              
+                                                                                                                JORNAL
+          25/02/2014                                 TRANSFERENCIA ENTRE CONTAS                                                                           85,00              
+          25/02SIGSUL COMERCIO DE CONFECCOES LTDA    ENTRADA  DE PUBLICIDADE     COD: 84835           7331N/3   ENTRADA DE PUBLICIDADE                   191,25              
+          25/02CANTINHO DO CHOCOLATE                 ENTRADA  DE PUBLICIDADE     COD: 85223           7577N/2   ENTRADA DE PUBLICIDADE                    93,00              
+          25/02NF ARMAZEM DAS PIZZAS LTDA            ENTRADA  DE PUBLICIDADE     COD: 85153           7594N/5   ENTRADA DE PUBLICIDADE                   150,00              
+          25/02IMOBILIARIA KINDEL LTDA               ENTRADA  DE PUBLICIDADE     COD: 81538           7611N/31  ENTRADA DE PUBLICIDADE                   280,00              
+          25/02CELTON COMERCIO DE MATERIAL ELETRICO LTDARADA ASSINATURA JORNAL   COD: 116894          2692N/1   ENTRADA ASSINATURA                       298,00              
+                                                                                                                JORNAL
+          25/02SINOSCAR S/A                          ENTRADA  DE PUBLICIDADE     COD: 85672           7730N/1   ENTRADA DE PUBLICIDADE                   680,00              
+          25/02DR. AYMORE ALBUQUERQUE DRUMMOND       ENTRADA  DE PUBLICIDADE     COD: 84985           7815N/2   ENTRADA DE PUBLICIDADE                   220,00              
+          25/02FANFATUR VIAGENS E TURISMO LTDA ME    ENTRADA  DE PUBLICIDADE     COD: 85670           7817N/1   ENTRADA DE PUBLICIDADE                   200,00              
+          25/02BERTE COMERCIO DE BEBIDAS LTDA ME     ENTRADA  DE PUBLICIDADE     COD: 85690           7818N/1   ENTRADA DE PUBLICIDADE                    75,00              
+          25/02IMOBILIARIA TETO IMOVEIS LTDA         ENTRADA  DE PUBLICIDADE     COD: 85693           7819N/1   ENTRADA DE PUBLICIDADE                   150,00              
+          25/02RICHTER E  SOMER                      ENTRADA  DE PUBLICIDADE     COD: 85741           7820N/1   ENTRADA DE PUBLICIDADE                   312,00              
+          25/02HEITOR JOSE MULLER                    ENTRADA ASSINATURA JORNAL   COD: 116898          2803N/1   ENTRADA ASSINATURA                       298,00              
+                                                                                                                JORNAL
+          25/02ASSEMBLEIA LEGISLATIVA RIO GRANDE DO SULTRADA ASSINATURA JORNAL   COD: 117768          2813N/1   ENTRADA ASSINATURA                       465,00              
+                                                                                                                JORNAL
+          26/02COM + COM DE MATERIAL PUBLICITARIO LTDA MEADA  DE PUBLICIDADE     COD: 85658           7816N/1   ENTRADA DE PUBLICIDADE                    83,36              
+          26/02FANFATUR VIAGENS E TURISMO LTDA ME    ENTRADA  DE PUBLICIDADE     COD: 84770           7821N/3   ENTRADA DE PUBLICIDADE                   300,00              
+          26/02IMPORTADORA E EXPORTADORA DE CEREAIS S.A.RADA  DE PUBLICIDADE     COD: 85388           7807N/1   ENTRADA DE PUBLICIDADE                 1.920,00              
+          26/02EDUARDO SOUTO MACHADO E CIA LTDA      ENTRADA  DE PUBLICIDADE     COD: 85668           7822N/1   ENTRADA DE PUBLICIDADE                   300,00              
+          26/02RUDI ALFLEN ME                        ENTRADA  DE PUBLICIDADE     COD: 85691           7823N/1   ENTRADA DE PUBLICIDADE                    75,00              
+          26/02BRENNER VEICULOS E PECAS LTDA         ENTRADA  DE PUBLICIDADE     COD: 85747           7825N/1   ENTRADA DE PUBLICIDADE                   192,00              
+          26/02IMOBILIARIA TETO IMOVEIS LTDA         ENTRADA  DE PUBLICIDADE     COD: 85743           7826N/1   ENTRADA DE PUBLICIDADE                   120,00              
+          26/02JORGE ELOI FETZNER                    ENTRADA ASSINATURA JORNAL   COD: 115426 - PARC:3 4656N/3   ENTRADA ASSINATURA                        51,00              
+                                                                                                                JORNAL
+          27/02FOLHA DE PAGAMENTO                    FERIAS                      LUIS EDUARDO                   FERIAS                                                713,78
+          28/02DR. MARIO JOSE AGNES                  ENTRADA  DE PUBLICIDADE     COD: 84986           7842N/2   ENTRADA DE PUBLICIDADE                   120,00              
+          28/02C J DULLIUS & CIA LTDA                ENTRADA  DE PUBLICIDADE     COD: 85858           7877N/1   ENTRADA DE PUBLICIDADE                   202,00              
+          28/02SERVIÇO NOTARIAL E REGISTRAL DE BROCHIERTRADA  DE PUBLICIDADE     COD: 85794           7928N/1   ENTRADA DE PUBLICIDADE                    67,50              
+          28/02SUPERMERCADO MOMBACH                  VENDA AVULSA                COD: 17235           2818N/1   VENDA AVULSA                             263,92              
+          28/02MARISA I Q PORTO & CIA LTDA           VENDA AVULSA                COD: 17271           2815N/1   VENDA AVULSA                             296,24              
+          28/02MARISA I Q PORTO & CIA LTDA           VENDA AVULSA                COD: 17306           2817N/1   VENDA AVULSA                             104,00              
+          28/02UNIMED VALE DO CAI - SOCIEDADE        PLANO DE SAUDE               2/12                          PLANO DE SAUDE                                      4.086,76
+               COOPERATIVA DE SERVICOS DE SAUDE LTDA
+          28/02COOPERATIVA DE CREDITO DE LIVRE ADMISSAO A COBRANCA DE TITULOS                                   TAXA COBRANCA DE TITULOS                               63,80
+               DE ASSOCIADOS OURO BRANCO
+      Fluxo de Caixa por Conta Bancária                                                USUARIO                                        Data: 19/03/2014             Página 7
+          Data Cliente/Fornecedor                    Histórico                   Complemento          NF/ParcelaCentro de Custo        Cheque           Crédito       Débito
+          28/02COOPERATIVA DE CREDITO DE LIVRE ADMISSAO A COBRANCA DE TITULOS                                   TAXA COBRANCA DE TITULOS                                3,07
+               DE ASSOCIADOS OURO BRANCO
+                                                                                                                                     Total em Créditos         73.223,82
+                                                                                                                                     Total em Débitos          82.792,64
+      Fluxo de Caixa por Conta Bancária                                                USUARIO                                        Data: 19/03/2014             Página 8

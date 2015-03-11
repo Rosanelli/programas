@@ -1,0 +1,89 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="importador.MasterPage" %>
+
+<%@ Register Assembly="AjaxControlToolkit" Namespace="AjaxControlToolkit" TagPrefix="asp" %>
+
+
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>MRSoftware</title>
+
+    <link href='http://fonts.googleapis.com/css?family=Droid+Sans' rel='stylesheet' type='text/css'/>
+    <link href="style.css" media="screen" rel="stylesheet" type="text/css" />
+    <link href="iconic.css" media="screen" rel="stylesheet" type="text/css" />
+    <script src="prefix-free.js"></script>
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <asp:ScriptManager ID="ScriptManager1" runat="server"></asp:ScriptManager>
+
+            <asp:UpdatePanel runat="server">
+                <ContentTemplate>
+
+                    <div class="wrap">
+                        <div class="autenticacao">
+                            <asp:LinkButton ID="btnLogin" CssClass="btnAutenticacao" Text="Login" runat="server" />
+                            <asp:LinkButton ID="btnSair" CssClass="btnAutenticacao" Text="Sair" OnClick="btnSair_Click" runat="server" />
+                        </div>
+                        <nav>
+                            <ul class="menu">
+                                <li><a href="#"><span class="iconic home"></span>Inicio</a></li>
+                                <li><a href="#"><span class="iconic plus-alt"></span>Sobre</a>
+                                    <%--   <ul>
+                                        <li><a href="#">Company History</a></li>
+                                        <li><a href="#">Meet the team</a></li>
+                                    </ul>--%>
+                                </li>
+
+                                <li><a href="#"><span class="iconic mail"></span>Contato</a>
+                                    <%-- <ul>
+                                        <li><a href="#">Contact Us</a></li>
+                                        <li><a href="#">Directions</a></li>
+                                    </ul>--%>
+                                </li>
+
+                            </ul>
+
+                            <p class="logoMenu">
+                                <asp:Label ID="lblNomeEmpresa" Text="MR Software" runat="server" />
+                            </p>
+                            <div class="clearfix"></div>
+
+
+                            <asp:Panel ID="Panel1" CssClass="modalPopupLogin" runat="server">
+                                <asp:ImageButton ID="btnCancel" ImageUrl="~/img/close.png" Width="30px" Height="30px" runat="server" />
+                                <%--<asp:Button ID="btnCancel" Text="Cancelar" runat="server" />--%>
+                                <br />
+                                <br />
+                                <asp:Label ID="lblException" runat="server" />
+                                <br />
+                                <asp:TextBox ID="txtUsuario" Width="200px" PlaceHolder="Usuario" runat="server" />
+                                <br />
+                                <asp:TextBox ID="txtSenha" runat="server" Width="200px" TextMode="Password" PlaceHolder="Senha"  />
+                                <br />
+                                <br />
+                                <asp:Button ID="btnEntrar" Text="Entrar" runat="server" OnClick="btnEntrar_Click" />
+
+                            </asp:Panel>
+                            <asp:ModalPopupExtender ID="ModalPopupExtender1" BackgroundCssClass="modalPopup1_Background" TargetControlID="btnLogin" CancelControlID="btnCancel" PopupControlID="Panel1" runat="server">
+                            </asp:ModalPopupExtender>
+
+                        </nav>
+                </ContentTemplate>
+            </asp:UpdatePanel>
+        </div>
+
+        <asp:Image ID="logoEmpresa" CssClass="fotoEmpresa" runat="server" />
+
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+
+    </form>
+</body>
+</html>

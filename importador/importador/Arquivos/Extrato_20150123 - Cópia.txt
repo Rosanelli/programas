@@ -1,0 +1,34 @@
+B A N R I S U L                                                                 
+AGENCIA: 0940 - TAQUARA                                                         
+CONTA..: 35.207889.0-8                                                          
+NOME...: ALAN DIEGO ROSANELLI                                                   
+PERIODO: AGOSTO/2014                                                            
+IDENTIFICACAO: 23201501230384219133                                             
+                                                                                
+-----------------------     PARA SIMPLES CONFERENCIA     -----------------------
+-+----------------------------------------------------------------------------+-
+DIA HISTORICO                                        DOCUMENTO         V A L O R
+-+----------------------------------------------------------------------------+-
+------------------------- MOVIMENTOS DA CONTA CORRENTE -------------------------
+                                                                                
+    SALDO ANT EM 31/07/2014                                              145,83-
+++  MOVIMENTOS AGO/2014                                                         
+01  IOF                                               000000               0,13-
+    IOF ADICIONAL                                     000000               0,98-
+    SALDO NA DATA                                                        146,94-
+04  MENSALIDADE PACOTE                                002200               4,00-
+    SALDO NA DATA                                                        150,94-
+08  CREDITO TRANSFERENCIA                             271428             300,00 
+    SALDO NA DATA                                                        149,06 
+21  COMPRAS PRE-DATADO/PARCELADO                      230714              28,96-
+    SALDO NA DATA                                                        120,10 
+22  COMPRAS PRE-DATADO/PARCELADO                      230714              50,00-
+    SALDO NA DATA                                                         70,10 
+29  JUROS                                             000000               3,38-
+    SALDO NA DATA                                                         66,72 
+                                                                                
+----------------------- EMITIDO AS 16:14 H DE 23/01/2015 -----------------------
+--------------------------------------------------------------------------------
+                                SAC 0800 646 1515                               
+                             OUVIDORIA 0800 644 2200                            
+--------------------------------------------------------------------------------

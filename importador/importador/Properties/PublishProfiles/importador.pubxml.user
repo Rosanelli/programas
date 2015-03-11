@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\Alan\Desktop\importadorDeploy</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/AjaxControlToolkit.dll">
+      <publishTime>05/12/2010 10:24:02</publishTime>
+    </File>
+    <File Include="bin/ar/AjaxControlToolkit.resources.dll">
+      <publishTime>05/12/2010 10:24:02</publishTime>
+    </File>
+    <File Include="bin/cs/AjaxControlToolkit.resources.dll">
+      <publishTime>05/12/2010 10:24:02</publishTime>
+    </File>
+    <File Include="bin/de/AjaxControlToolkit.resources.dll">
+      <publishTime>05/12/2010 10:24:04</publishTime>
+    </File>
+    <File Include="bin/es/AjaxControlToolkit.resources.dll">
+      <publishTime>05/12/2010 10:24:04</publishTime>
+    </File>
+    <File Include="bin/fr/AjaxControlToolkit.resources.dll">
+      <publishTime>05/12/2010 10:24:04</publishTime>
+    </File>
+    <File Include="bin/he/AjaxControlToolkit.resources.dll">
+      <publishTime>05/12/2010 10:24:04</publishTime>
+    </File>
+    <File Include="bin/hi/AjaxControlToolkit.resources.dll">
+      <publishTime>05/12/2010 10:24:04</publishTime>
+    </File>
+    <File Include="bin/importador.dll">
+      <publishTime>02/25/2015 14:31:49</publishTime>
+    </File>
+    <File Include="bin/it/AjaxControlToolkit.resources.dll">
+      <publishTime>05/12/2010 10:24:04</publishTime>
+    </File>
+    <File Include="bin/ja/AjaxControlToolkit.resources.dll">
+      <publishTime>05/12/2010 10:24:04</publishTime>
+    </File>
+    <File Include="bin/ko/AjaxControlToolkit.resources.dll">
+      <publishTime>05/12/2010 10:24:04</publishTime>
+    </File>
+    <File Include="bin/nl/AjaxControlToolkit.resources.dll">
+      <publishTime>05/12/2010 10:24:06</publishTime>
+    </File>
+    <File Include="bin/pt/AjaxControlToolkit.resources.dll">
+      <publishTime>05/12/2010 10:24:06</publishTime>
+    </File>
+    <File Include="bin/ru/AjaxControlToolkit.resources.dll">
+      <publishTime>05/12/2010 10:24:06</publishTime>
+    </File>
+    <File Include="bin/tr-TR/AjaxControlToolkit.resources.dll">
+      <publishTime>05/12/2010 10:24:06</publishTime>
+    </File>
+    <File Include="bin/zh-CHS/AjaxControlToolkit.resources.dll">
+      <publishTime>05/12/2010 10:24:06</publishTime>
+    </File>
+    <File Include="bin/zh-CHT/AjaxControlToolkit.resources.dll">
+      <publishTime>05/12/2010 10:24:06</publishTime>
+    </File>
+    <File Include="fonts/iconic/iconic_stroke.eot">
+      <publishTime>01/15/2015 14:19:05</publishTime>
+    </File>
+    <File Include="fonts/iconic/iconic_stroke.otf">
+      <publishTime>01/15/2015 14:19:05</publishTime>
+    </File>
+    <File Include="fonts/iconic/iconic_stroke.svg">
+      <publishTime>01/15/2015 14:19:05</publishTime>
+    </File>
+    <File Include="fonts/iconic/iconic_stroke.ttf">
+      <publishTime>01/15/2015 14:19:05</publishTime>
+    </File>
+    <File Include="iconic.css">
+      <publishTime>01/20/2015 14:46:45</publishTime>
+    </File>
+    <File Include="img/close.png">
+      <publishTime>01/21/2015 17:49:03</publishTime>
+    </File>
+    <File Include="img/denim.png">
+      <publishTime>01/26/2015 16:47:33</publishTime>
+    </File>
+    <File Include="img/grid-alt.png">
+      <publishTime>01/18/2015 18:05:55</publishTime>
+    </File>
+    <File Include="img/grid-header.png">
+      <publishTime>01/18/2015 18:18:37</publishTime>
+    </File>
+    <File Include="img/grid-pgr.png">
+      <publishTime>01/18/2015 18:18:37</publishTime>
+    </File>
+    <File Include="img/light_alu.png">
+      <publishTime>01/15/2015 14:19:05</publishTime>
+    </File>
+    <File Include="img/LogoOficialMRSoftware.png">
+      <publishTime>01/19/2015 14:54:40</publishTime>
+    </File>
+    <File Include="MasterPage.Master">
+      <publishTime>01/23/2015 17:45:52</publishTime>
+    </File>
+    <File Include="MaterMenu.Master">
+      <publishTime>01/23/2015 16:35:32</publishTime>
+    </File>
+    <File Include="pages/CadastroConta.aspx">
+      <publishTime>01/23/2015 15:05:33</publishTime>
+    </File>
+    <File Include="pages/ContasSemCadastro.aspx">
+      <publishTime>01/26/2015 13:12:06</publishTime>
+    </File>
+    <File Include="pages/Empresa.aspx">
+      <publishTime>02/24/2015 16:33:33</publishTime>
+    </File>
+    <File Include="pages/Menu.aspx">
+      <publishTime>01/18/2015 18:20:27</publishTime>
+    </File>
+    <File Include="pages/Principal.aspx">
+      <publishTime>01/19/2015 14:56:29</publishTime>
+    </File>
+    <File Include="prefix-free.js">
+      <publishTime>01/15/2015 14:13:09</publishTime>
+    </File>
+    <File Include="Service.asmx">
+      <publishTime>02/24/2015 10:50:09</publishTime>
+    </File>
+    <File Include="style.css">
+      <publishTime>02/23/2015 11:31:02</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>02/25/2015 14:02:07</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

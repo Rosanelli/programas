@@ -1,0 +1,324 @@
+
+                                      Extrato de: Agência: 1491 Conta: 330-1
+
+Data       Lançamento                    Dcto.         Crédito (R$)    Débito (R$)      Saldo (R$)
+30/06/2014 SALDO ANTERIOR                                                                4.576,98
+01/07/2014 LIQUIDACAO DE COBRANCA        9000330         4.835,41                        9.412,39
+           VALOR DISPONIVEL
+01/07/2014 TARIFA REGISTRO COBRANCA      9000330                           -3,00         9.409,39
+           TARIFA BAIXA POR CONTABI00000001
+01/07/2014 TARIFA REGISTRO COBRANCA      9000330                           -6,00         9.403,39
+           TR TIT PAGO VENCIDO 00000002
+01/07/2014 TARIFA REGISTRO COBRANCA      9000330                          -18,90         9.384,49
+           QUANDO DO REGISTRO 00000018
+01/07/2014 GASTOS CARTAO DE CREDITO      3990182                          -906,00        8.478,49
+02/07/2014 LIQUIDACAO DE COBRANCA        1491              77,01                         8.555,50
+           VALOR DISPONIVEL
+02/07/2014 LIQUIDACAO DE COBRANCA        9000330         7.138,06                       15.693,56
+           VALOR DISPONIVEL
+02/07/2014 CHEQUE                        30                               -628,50       15.065,06
+           ESPECIE
+02/07/2014 CHEQUE                        31                              -4.980,00      10.085,06
+           ESPECIE
+02/07/2014 TARIFA REGISTRO COBRANCA      9000330                           -3,00        10.082,06
+           TARIFA BAIXA POR CONTABI00000001
+02/07/2014 TARIFA REGISTRO COBRANCA      9000330                           -9,45        10.072,61
+           QUANDO DO REGISTRO 00000009
+02/07/2014 TRANSF FDOS DOC-E H BANK      9144393                         -2.503,61       7.569,00
+02/07/2014 DOC/TED INTERNET              9144393                           -7,35         7.561,65
+           DOC INTERNET
+03/07/2014 LIQUIDACAO DE COBRANCA        1491             138,51                         7.700,16
+           VALOR DISPONIVEL
+03/07/2014 LIQUIDACAO DE COBRANCA        9000330         5.942,31                       13.642,47
+           VALOR DISPONIVEL
+03/07/2014 TARIFA REGISTRO COBRANCA      9000330                           -6,00        13.636,47
+           TR TIT PAGO VENCIDO 00000002
+03/07/2014 TARIFA REGISTRO COBRANCA      9000330                          -14,70        13.621,77
+           QUANDO DO REGISTRO 00000014
+04/07/2014 LIQUIDACAO DE COBRANCA        9000330         6.124,85                       19.746,62
+           VALOR DISPONIVEL
+04/07/2014 TARIFA REGISTRO COBRANCA      9000330                           -3,00        19.743,62
+           TR TIT PAGO VENCIDO 00000001
+04/07/2014 TARIFA REGISTRO COBRANCA      9000330                          -12,60        19.731,02
+           QUANDO DO REGISTRO 00000012
+04/07/2014 PAGTO ELETRON COBRANCA        70                               -129,90       19.601,12
+           BOLETO HTEC 0714N04997
+07/07/2014 LIQUIDACAO DE COBRANCA        9000330         3.940,71                       23.541,83
+           VALOR DISPONIVEL
+07/07/2014 DEPOSITO EM DINHEIRO          540101         11.500,00                       35.041,83
+           A PRINCESA COMERCIO M. B. L.
+07/07/2014 TARIFA REGISTRO COBRANCA      9000330                           -3,00        35.038,83
+           TARIFA BAIXA POR CONTABI00000001
+07/07/2014 TARIFA REGISTRO COBRANCA      9000330                           -6,00        35.032,83
+           TR TIT PAGO VENCIDO 00000002
+07/07/2014 TARIFA REGISTRO COBRANCA      9000330                          -12,60        35.020,23
+           QUANDO DO REGISTRO 00000012
+07/07/2014 PAGTO ELETRON COBRANCA        71                             -34.846,96        173,27
+           BOLETO CALAMO 69563-1
+07/07/2014 CHEQUE COMPENSADO             32                              -1.239,48       -1.066,21
+08/07/2014 LIQUIDACAO DE COBRANCA        1491              83,44                          -982,77
+           VALOR DISPONIVEL
+08/07/2014 LIQUIDACAO DE COBRANCA        9000330         6.986,84                        6.004,07
+           VALOR DISPONIVEL
+08/07/2014 TARIFA REGISTRO COBRANCA      9000330                           -9,00         5.995,07
+           TARIFA BAIXA POR CONTABI00000003
+08/07/2014 TARIFA REGISTRO COBRANCA      9000330                          -15,00         5.980,07
+           TR TIT PAGO VENCIDO 00000005
+08/07/2014 TARIFA REGISTRO COBRANCA      9000330                          -25,20         5.954,87
+           QUANDO DO REGISTRO 00000024
+08/07/2014 TARIFA AUTORIZ COBRANCA       9000330                          -11,40         5.943,47
+           TIT.BX.DECURSO PRAZO 00000002
+08/07/2014 PAGTO ELETRON COBRANCA        72                              -3.612,15       2.331,32
+           BOLETO ANTILHAS 51885001
+09/07/2014 LIQUIDACAO DE COBRANCA        1491             391,19                         2.722,51
+           VALOR DISPONIVEL
+09/07/2014 LIQUIDACAO DE COBRANCA        9000330        15.793,03                       18.515,54
+           VALOR DISPONIVEL
+09/07/2014 TARIFA REGISTRO COBRANCA      9000330                           -6,00        18.509,54
+           TR TIT PAGO VENCIDO 00000002
+09/07/2014 TARIFA REGISTRO COBRANCA      9000330                          -12,00        18.497,54
+           TARIFA BAIXA POR CONTABI00000004
+09/07/2014 TARIFA REGISTRO COBRANCA      9000330                          -23,10        18.474,44
+           QUANDO DO REGISTRO 00000022
+09/07/2014 TARIFA AUTORIZ COBRANCA       9000330                           -5,70        18.468,74
+           TIT.BX.DECURSO PRAZO 00000001
+10/07/2014 LIQUIDACAO DE COBRANCA        1491            1.001,36                       19.470,10
+           VALOR DISPONIVEL
+10/07/2014 LIQUIDACAO DE COBRANCA        9000330         8.797,01                       28.267,11
+           VALOR DISPONIVEL
+10/07/2014 TARIFA REGISTRO COBRANCA      9000330                           -3,00        28.264,11
+           TARIFA BAIXA POR CONTABI00000001
+10/07/2014 TARIFA REGISTRO COBRANCA      9000330                          -15,75        28.248,36
+           QUANDO DO REGISTRO 00000015
+10/07/2014 TARIFA REGISTRO COBRANCA      9000330                          -18,00        28.230,36
+           TR TIT PAGO VENCIDO 00000006
+10/07/2014 TARIFA AUTORIZ COBRANCA       9000330                           -5,70        28.224,66
+           TIT.BX.DECURSO PRAZO 00000001
+10/07/2014 CONTA DE TELEFONE             5962481                          -303,30       27.921,36
+           INTERNET --OI BRT
+11/07/2014 LIQUIDACAO DE COBRANCA        1491             341,18                        28.262,54
+           VALOR DISPONIVEL
+11/07/2014 LIQUIDACAO DE COBRANCA        9000330         8.939,70                       37.202,24
+           VALOR DISPONIVEL
+11/07/2014 TARIFA REGISTRO COBRANCA      9000330                           -3,00        37.199,24
+           TARIFA BAIXA POR CONTABI00000001
+11/07/2014 TARIFA REGISTRO COBRANCA      9000330                          -14,70        37.184,54
+           QUANDO DO REGISTRO 00000014
+14/07/2014 LIQUIDACAO DE COBRANCA        1491             152,64                        37.337,18
+
+
+Data       Lançamento                    Dcto.         Crédito (R$)    Débito (R$)      Saldo (R$)
+           VALOR DISPONIVEL
+14/07/2014 LIQUIDACAO DE COBRANCA        9000330         5.266,71                       42.603,89
+           VALOR DISPONIVEL
+14/07/2014 TARIFA REGISTRO COBRANCA      9000330                           -3,00        42.600,89
+           TARIFA BAIXA POR CONTABI00000001
+14/07/2014 TARIFA REGISTRO COBRANCA      9000330                          -15,00        42.585,89
+           TR TIT PAGO VENCIDO 00000005
+14/07/2014 TARIFA REGISTRO COBRANCA      9000330                          -19,95        42.565,94
+           QUANDO DO REGISTRO 00000019
+14/07/2014 CHEQUE COMPENSADO             33                              -1.100,00      41.465,94
+15/07/2014 LIQUIDACAO DE COBRANCA        1491              71,19                        41.537,13
+           VALOR DISPONIVEL
+15/07/2014 LIQUIDACAO DE COBRANCA        9000330         7.253,60                       48.790,73
+           VALOR DISPONIVEL
+15/07/2014 TARIFA REGISTRO COBRANCA      9000330                           -3,00        48.787,73
+           TARIFA BAIXA POR CONTABI00000001
+15/07/2014 TARIFA REGISTRO COBRANCA      9000330                           -3,00        48.784,73
+           TR TIT PAGO VENCIDO 00000001
+15/07/2014 TARIFA REGISTRO COBRANCA      9000330                          -25,20        48.759,53
+           QUANDO DO REGISTRO 00000024
+15/07/2014 TARIFA AUTORIZ COBRANCA       9000330                          -28,50        48.731,03
+           TIT.BX.DECURSO PRAZO 00000005
+15/07/2014 TARIFA BANCARIA               10714                            -41,70        48.689,33
+           CESTA PJ3 - ECONOMICA
+16/07/2014 LIQUIDACAO DE COBRANCA        1491             234,71                        48.924,04
+           VALOR DISPONIVEL
+16/07/2014 LIQUIDACAO DE COBRANCA        9000330         6.956,15                       55.880,19
+           VALOR DISPONIVEL
+16/07/2014 CHEQUE                        34                               -550,00       55.330,19
+           ESPECIE
+16/07/2014 TARIFA REGISTRO COBRANCA      9000330                          -21,00        55.309,19
+           TR TIT PAGO VENCIDO 00000007
+16/07/2014 TARIFA REGISTRO COBRANCA      9000330                          -30,45        55.278,74
+           QUANDO DO REGISTRO 00000029
+16/07/2014 TARIFA AUTORIZ COBRANCA       9000330                           -5,70        55.273,04
+           TIT.BX.DECURSO PRAZO 00000001
+17/07/2014 LIQUIDACAO DE COBRANCA        9000330         2.869,60                       58.142,64
+           VALOR DISPONIVEL
+17/07/2014 TARIFA REGISTRO COBRANCA      9000330                           -6,00        58.136,64
+           TR TIT PAGO VENCIDO 00000002
+17/07/2014 TARIFA REGISTRO COBRANCA      9000330                          -15,75        58.120,89
+           QUANDO DO REGISTRO 00000015
+17/07/2014 TARIFA AUTORIZ COBRANCA       9000330                          -17,10        58.103,79
+           TIT.BX.DECURSO PRAZO 00000003
+18/07/2014 LIQUIDACAO DE COBRANCA        9000330         1.955,15                       60.058,94
+           VALOR DISPONIVEL
+18/07/2014 CHEQUE                        35                              -4.901,29      55.157,65
+           ESPECIE
+18/07/2014 CHEQUE                        36                              -1.500,00      53.657,65
+           ESP/DIV
+18/07/2014 TARIFA REGISTRO COBRANCA      9000330                           -3,16        53.654,49
+           TARIFA BAIXA POR CONTABI00000001
+18/07/2014 TARIFA REGISTRO COBRANCA      9000330                           -6,00        53.648,49
+           TR TIT PAGO VENCIDO 00000002
+18/07/2014 TARIFA REGISTRO COBRANCA      9000330                          -28,35        53.620,14
+           QUANDO DO REGISTRO 00000027
+21/07/2014 LIQUIDACAO DE COBRANCA        1491             118,21                        53.738,35
+           VALOR DISPONIVEL
+21/07/2014 LIQUIDACAO DE COBRANCA        9000330         3.425,91                       57.164,26
+           VALOR DISPONIVEL
+21/07/2014 TARIFA REGISTRO COBRANCA      9000330                          -23,10        57.141,16
+           QUANDO DO REGISTRO 00000022
+21/07/2014 PAGTO ELETRON COBRANCA        73                              -9.484,14      47.657,02
+           BOLETO 199150 -1-1 BOTICARIO
+21/07/2014 PAGTO ELETRON COBRANCA        74                              -5.531,88      42.125,14
+           BOLETO 14482723-1-1 BOTICARIO
+21/07/2014 PAGTO ELETRON COBRANCA        75                              -6.336,29      35.788,85
+           BOLETO 000070340-1 CALAMO
+22/07/2014 LIQUIDACAO DE COBRANCA        9000330         1.188,54                       36.977,39
+           VALOR DISPONIVEL
+22/07/2014 TARIFA REGISTRO COBRANCA      9000330                           -9,00        36.968,39
+           TR TIT PAGO VENCIDO 00000003
+22/07/2014 TARIFA REGISTRO COBRANCA      9000330                          -29,40        36.938,99
+           QUANDO DO REGISTRO 00000028
+22/07/2014 TARIFA AUTORIZ COBRANCA       9000330                          -11,40        36.927,59
+           TIT.BX.DECURSO PRAZO 00000002
+23/07/2014 LIQUIDACAO DE COBRANCA        9000330         5.706,39                       42.633,98
+           VALOR DISPONIVEL
+23/07/2014 TARIFA REGISTRO COBRANCA      9000330                           -3,00        42.630,98
+           TR TIT PAGO VENCIDO 00000001
+23/07/2014 TARIFA REGISTRO COBRANCA      9000330                          -30,45        42.600,53
+           QUANDO DO REGISTRO 00000029
+24/07/2014 LIQUIDACAO DE COBRANCA        9000330         8.916,52                       51.517,05
+           VALOR DISPONIVEL
+24/07/2014 TARIFA REGISTRO COBRANCA      9000330                           -6,00        51.511,05
+           TR TIT PAGO VENCIDO 00000002
+24/07/2014 TARIFA REGISTRO COBRANCA      9000330                          -22,05        51.489,00
+           QUANDO DO REGISTRO 00000021
+24/07/2014 TARIFA AUTORIZ COBRANCA       9000330                           -5,70        51.483,30
+           TIT.BX.DECURSO PRAZO 00000001
+25/07/2014 LIQUIDACAO DE COBRANCA        9000330         4.149,71                       55.633,01
+           VALOR DISPONIVEL
+25/07/2014 TARIFA REGISTRO COBRANCA      9000330                           -6,00        55.627,01
+           TR TIT PAGO VENCIDO 00000002
+25/07/2014 TARIFA REGISTRO COBRANCA      9000330                          -31,50        55.595,51
+           QUANDO DO REGISTRO 00000030
+28/07/2014 LIQUIDACAO DE COBRANCA        9000330         2.105,53                       57.701,04
+           VALOR DISPONIVEL
+28/07/2014 TARIFA REGISTRO COBRANCA      9000330                           -3,00        57.698,04
+           TR TIT PAGO VENCIDO 00000001
+28/07/2014 TARIFA REGISTRO COBRANCA      9000330                          -37,80        57.660,24
+           QUANDO DO REGISTRO 00000036
+28/07/2014 PAGTO ELETRON COBRANCA        76                             -14.493,20      43.167,04
+           BOLETO 706021 CALAMO
+28/07/2014 PAGTO ELETRON COBRANCA        77                               -72,00        43.095,04
+
+
+Data       Lançamento                    Dcto.         Crédito (R$)    Débito (R$)      Saldo (R$)
+           BOLETO 17335996 CDL
+28/07/2014 PAGTO ELETRON COBRANCA        78                               -41,93        43.053,11
+           BOLETO 0714/05033 HTEC
+29/07/2014 LIQUIDACAO DE COBRANCA        9000330         2.204,18                       45.257,29
+           VALOR DISPONIVEL
+29/07/2014 TARIFA REGISTRO COBRANCA      9000330                          -32,55        45.224,74
+           QUANDO DO REGISTRO 00000031
+29/07/2014 TARIFA AUTORIZ COBRANCA       9000330                          -11,40        45.213,34
+           TIT.BX.DECURSO PRAZO 00000002
+30/07/2014 LIQUIDACAO DE COBRANCA        9000330         7.626,88                       52.840,22
+           VALOR DISPONIVEL
+30/07/2014 TARIFA REGISTRO COBRANCA      9000330                           -3,00        52.837,22
+           TR TIT PAGO VENCIDO 00000001
+30/07/2014 TARIFA REGISTRO COBRANCA      9000330                           -3,16        52.834,06
+           TARIFA BAIXA POR CONTABI00000001
+30/07/2014 TARIFA REGISTRO COBRANCA      9000330                          -21,00        52.813,06
+           QUANDO DO REGISTRO 00000020
+30/07/2014 PAGTO ELETRON COBRANCA        79                               -577,11       52.235,95
+           BOLETO570371 MAO COLORIDA
+31/07/2014 LIQUIDACAO DE COBRANCA        1491             227,38                        52.463,33
+           VALOR DISPONIVEL
+31/07/2014 LIQUIDACAO DE COBRANCA        9000330         2.138,22                       54.601,55
+           VALOR DISPONIVEL
+31/07/2014 TARIFA REGISTRO COBRANCA      9000330                          -15,00        54.586,55
+           TR TIT PAGO VENCIDO 00000005
+31/07/2014 TARIFA REGISTRO COBRANCA      9000330                          -22,05        54.564,50
+           QUANDO DO REGISTRO 00000021
+31/07/2014 TARIFA AUTORIZ COBRANCA       9000330                          -17,10        54.547,40
+           TIT.BX.DECURSO PRAZO 00000003
+Total                                                   144.597,83      -94.627,41      54.547,40
+
+
+                                            Últimos Lançamentos
+
+Data       Lançamento                    Dcto.         Crédito (R$)    Débito (R$)      Saldo (R$)
+06/08/2014 SALDO ANTERIOR                                                               47.209,41
+07/08/2014 LIQUIDACAO DE COBRANCA        9000330         7.260,45                       54.469,86
+           VALOR DISPONIVEL
+07/08/2014 TARIFA REGISTRO COBRANCA      9000330                          -12,64        54.457,22
+           TR TIT PAGO VENCIDO 00000004
+07/08/2014 TARIFA REGISTRO COBRANCA      9000330                          -30,45        54.426,77
+           QUANDO DO REGISTRO 00000029
+07/08/2014 TARIFA AUTORIZ COBRANCA       9000330                           -5,70        54.421,07
+           TIT.BX.DECURSO PRAZO 00000001
+07/08/2014 PAGTO ELETRON COBRANCA        82                              -1.614,00      52.807,07
+           BOLETO0337 GRUPO SYSTEM INFORMA
+08/08/2014 LIQUIDACAO DE COBRANCA        9000330         7.638,70                       60.445,77
+           VALOR DISPONIVEL
+Total                                                   14.899,15        -1.662,79      60.445,77
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

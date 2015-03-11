@@ -1,0 +1,53 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MaterMenu.master.cs" Inherits="importador.MaterMenu" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>MRSoftware - Menu</title>
+
+    <link href='http://fonts.googleapis.com/css?family=Droid+Sans' rel='stylesheet' type='text/css'>
+    <link href="style.css" media="screen" rel="stylesheet" type="text/css" />
+    <link href="iconic.css" media="screen" rel="stylesheet" type="text/css" />
+    <script src="prefix-free.js"></script>
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+
+        <div class="wrap">
+            <div class="autenticacao">
+                <asp:LinkButton ID="btnLogin" CssClass="btnAutenticacao" Text="Login" runat="server" />
+                <asp:LinkButton ID="btnSair" CssClass="btnAutenticacao" Text="Sair" OnClick="btnSair_Click" runat="server" />
+            </div>
+            <nav>
+
+                <ul class="menu">
+                    <li><a href="Menu.aspx"><span class="iconic home"></span>Menu</a></li>
+                    <li><a href="CadastroConta.aspx"><span class="iconic plus-alt"></span>Cadastro Contas</a></li>
+                    <li><a href="ContasSemCadastro.aspx"><span class="iconic plus-alt"></span>Contas sem Cadastro</a></li>
+                    <li><a href="Empresa.aspx"><span class="iconic plus-alt"></span>Incluir Arquivo</a></li>
+                </ul>
+
+                <p class="logoMenu">
+                    <asp:Label ID="lblNomeEmpresa" Text="MR Software" runat="server" />
+                </p>
+
+
+
+                <div class="clearfix"></div>
+            </nav>
+        </div>
+
+        <asp:ImageButton ID="imgEmpresa"  runat="server" />
+        <asp:Image ID="logoEmpresa" CssClass="fotoEmpresa" runat="server" />
+
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>

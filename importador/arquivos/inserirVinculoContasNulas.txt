@@ -1,0 +1,10 @@
+Inserir vinculo de contas nulas em arquivos
+
+________________________________________
+bool contaRepetida = false;
+
+contaRepetida = false;
+
+linkaContasNulas(contaRepetida, lanc);
+
+Session["arquivoContasNull"] = (List<Arquivo_ContasNullEN>)listaArquivoContas;
