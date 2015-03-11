@@ -13,9 +13,7 @@ namespace importador.classes
 
         public Conexao()
         {
-            var connectionString = "Server= localhost\\SQLEXPRESS;Database=Importador;user = sa; password = 025640;";
-
-            Connection = new SqlConnection(connectionString);
+           teste
         }
 
         public SqlDataReader ExecuteQuery(string sqlQuery)
